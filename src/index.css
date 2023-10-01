@@ -1,0 +1,100 @@
+
+.edicion1 {
+    background-color: rgb(223, 0, 0);
+    font-size: 80px;
+    font-family: 'Rubik Mono One', sans-serif;
+    height: 250px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 15px;
+}
+
+.pokedex{
+    font-family: 'Rubik Mono One', sans-serif;
+    justify-content: center;
+    text-align: center;
+    margin: 0px;
+}
+
+.totalPoke{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 500px;
+    align-items: center;
+    
+}
+
+h1{
+    font-size: 100px;
+    color: rgb(188, 185, 185);
+    -webkit-text-stroke: 3px rgb(39, 39, 39);
+}
+
+h2{
+    color: rgb(255, 46, 46);
+    -webkit-text-stroke: 1px black;
+    
+}
+
+h3{
+    width: 100%;
+    height: 100px;
+    color: rgb(255, 75, 75);
+}
+
+.principalN{
+    color: rgb(255, 28, 28);
+    -webkit-text-stroke: 6px rgb(255, 255, 255);
+    font-size: 80px;
+}
+
+button {
+    background-color:rgb(255, 32, 32);
+    color: white;
+    font-size: 30px;
+}
+
+input{
+    font-size: 30px;
+}
+
+select{
+   font-size: 30px;
+   font-family: 'Bungee Shade', cursive;
+font-family: 'Rubik Mono One', sans-serif;
+border-radius: 50px;
+color: rgb(38, 38, 38);
+-webkit-text-stroke: 1px rgb(239, 255, 20);
+text-align: center;
+
+}
+
+
+img{
+    height: 400px;
+    width: 400px;
+    text-align: left;
+    justify-content: left;
+   margin-top: 100px;
+}
+
+.pokem{
+    font-size: 50px;
+    text-align: left;
+    justify-content: left;
+
+}
+
+ul{
+    font-size: 20px;
+    height: 50px;
+    width: 50px;
+}
+
+li{
+    justify-content: left;
+    text-align: left;
+}
